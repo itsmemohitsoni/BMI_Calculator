@@ -19,6 +19,7 @@ class MyApp extends StatelessWidget {
         useMaterial3: true,
       ),
       home: const MyHomePage(),
+      debugShowCheckedModeBanner: false,
     );
   }
 }
@@ -74,7 +75,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   textAlign: TextAlign.center,
                   style: const TextStyle(fontSize: 20),
                   decoration: const InputDecoration(
-                    label: Text('Weight', style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold,)),
+                    label: Text('Weight(kg)', style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold,)),
                     hintText: 'Enter your weight in Kgs',
                     prefixIcon: Icon(FontAwesomeIcons.weight, size: 25, color: Colors.deepPurple),
                     border: OutlineInputBorder(
