@@ -6,9 +6,9 @@
 
 | Screen's Name            | Screenshots                                                  |
 |:-------------------------|:-------------------------------------------------------------|
-| Main-Screen              | <img src="main_screen.png" width="350" height="630"> |
-| Incomplete-Details       | <img src="incomplete_details.png" width="350" height="630"> |
-| Calculated-BMI Page      | <img src="computed_bmi.png" width="350" height="630"> |
+| Main-Screen              | <img src="main_screen.png" width="350" height="700"> |
+| Incomplete-Details       | <img src="incomplete_details.png" width="350" height="730"> |
+| Calculated-BMI Page      | <img src="computed_bmi.png" width="350" height="680"> |
 
 ## Getting Started
 
