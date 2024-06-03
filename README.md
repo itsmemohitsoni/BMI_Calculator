@@ -1,6 +1,12 @@
-# bmicalculator
+# BMI Calculator
 
-A new Flutter project.
+- App to calculate individual's BMI index based on their weight and height
+
+## ScreenShots
+
+| Main-Screen              | <img src="main_screen.png" width="350" height="630"> |
+| Incomplete-Details       | <img src="incomplete_details.png" width="350" height="630"> |
+| Calculated-BMI Page      | <img src="computed_bmi.png" width="350" height="630"> |
 
 ## Getting Started
 
